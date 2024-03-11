@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1708553113 source:d:\codeblocksprojects\oop\bqms\main.cpp
+	<iostream>
+	<Customer.h>
+	<Teller.h>
+	<BQMS.h>
+
+1708562052 d:\codeblocksprojects\oop\bqms\include\customer.h
+	<string>
+
+1708555915 d:\codeblocksprojects\oop\bqms\include\teller.h
+	<string>
+	<iostream>
+
+1708621094 d:\codeblocksprojects\oop\bqms\include\bqms.h
+	<Customer.h>
+	<Teller.h>
+	<vector>
+	<queue>
+	<string>
+	<iostream>
+	<iomanip>
+
